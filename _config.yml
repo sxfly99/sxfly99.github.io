@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiangfei Sheng (盛祥非) - Homepage"
+title                    : "Xiangfei Sheng (盛祥非) "
 description              : "Research interests: visual quality assessment and computational aesthetics."
 repository               : "sxfly99/sxfly99.github.io"
 google_scholar_stats_use_cdn : true
