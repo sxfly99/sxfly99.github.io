@@ -21,6 +21,7 @@ I am a Ph.D. student (2023) at the School of Artificial Intelligence, Xidian Uni
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Awarded the **2026 Spring Outstanding Doctoral Dissertation Funding** of Xidian University.
 - *2026.01*: &nbsp;🎉 One paper accepted by **ICASSP 2026**.
 - *2025.12*: &nbsp;🎉 Awarded the <strong><font color="#e74c3c">2025 National Natural Science Foundation of China (NSFC) Youth Student Basic Research Grant</font></strong>.
 - *2025.12*: &nbsp;🏆 Awarded the **Huawei Scholarship** of Xidian University.
