@@ -21,6 +21,7 @@ I am a Ph.D. student (2023) at the School of Artificial Intelligence, Xidian Uni
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper **AGIDefect-4K** was accepted by **ACM Multimedia 2026**.
 - *2026.04*: &nbsp;🎉 Awarded the **2026 Spring Outstanding Doctoral Dissertation Funding** of Xidian University.
 - *2026.01*: &nbsp;🎉 One paper accepted by **ICASSP 2026**.
 - *2025.12*: &nbsp;🎉 Awarded the <strong><font color="#e74c3c">2025 National Natural Science Foundation of China (NSFC) Youth Student Basic Research Grant</font></strong>.
@@ -34,6 +35,18 @@ I am a Ph.D. student (2023) at the School of Artificial Intelligence, Xidian Uni
 # 📝 Publications 
 
 ## 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/pub_agidefect4k.png' alt="AGIDefect-4K" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation
+
+**Xiangfei Sheng**, Weidong Zou, Tianjiao Gu, Zhichao Yang, Pengfei Chen, Leida Li
+
+[[Code](https://github.com/sxfly99/AGIDefect-4K)\]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/pub_finegrainiqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
